@@ -8,8 +8,7 @@
       <change afterPath="$PROJECT_DIR$/tau-intro-selenium-py/tests/result.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/tau-intro-selenium-py/tests/search.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/tau-intro-selenium-py/tests/test_search.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_file.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tau-intro-selenium-py" beforeDir="false" afterPath="$PROJECT_DIR$/tau-intro-selenium-py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tau-intro-selenium-py/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/tau-intro-selenium-py/Pipfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tau-intro-selenium-py/Pipfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/tau-intro-selenium-py/Pipfile.lock" afterDir="false" />
@@ -28,7 +27,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/tau-intro-selenium-py" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1dh92tWkgh9J83Cepq7dYdMcXFl" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
